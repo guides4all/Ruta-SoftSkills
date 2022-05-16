@@ -17,7 +17,7 @@ Las habilidades blandas son importantes dentro del mundo de las TI, desde aprend
 
 - Video de Alura latam sobre las habilidades blandas.
 
-[https://www.youtube.com/watch?v=vhwspfvI52k](https://www.youtube.com/watch?v=vhwspfvI52k)
+[![Alt text](https://img.youtube.com/vi/vhwspfvI52k/0.jpg)](https://www.youtube.com/watch?v=vhwspfvI52k)
 
 Alura cuenta con una formación enfocada en mejorar todas estas habilidades, puedes acceder a sus increíbles cursos.
 
@@ -29,11 +29,12 @@ La app (Notion) que te voy a presentar hoy te brinda demasiadas herramientas par
 
 Con este video conocerás la aplicación, aprenderás a usar platillas para organizarte de manera mas fácil, hacer calendario para planificarte semanalmente y hasta una ToDo list para tener tus tareas del día organizadas.
 
-[https://www.youtube.com/watch?v=fiSuzG09Vjk&list=PL2xr88TgHcG7AHQjlgbeERvxwTIIZ9knm](https://www.youtube.com/watch?v=fiSuzG09Vjk&list=PL2xr88TgHcG7AHQjlgbeERvxwTIIZ9knm)
+[![Alt text](https://img.youtube.com/vi/fiSuzG09Vjk/0.jpg)](https://www.youtube.com/watch?v=fiSuzG09Vjk)
 
 En el siguiente de video además de explicarte muchas funciones de notion te brinda plantillas y como instalarlas y editarlas a tu gusto.
 
-[https://www.youtube.com/watch?v=IAb-OVJoywM](https://www.youtube.com/watch?v=IAb-OVJoywM)
+[![Alt text](https://img.youtube.com/vi/IAb-OVJoywM/0.jpg)](https://www.youtube.com/watch?v=IAb-OVJoywM)
+
 
 ## Métodos de enfoque efectivos
 
@@ -45,17 +46,17 @@ Este articulo nos explica como priorizar tareas, clasificar tareas, evitar multi
 
 Mira este video con 4 consejos para el enfoque:
 
-[https://www.youtube.com/watch?v=-P50XuOun3U](https://www.youtube.com/watch?v=-P50XuOun3U)
+[![Alt text](https://img.youtube.com/vi/-P50XuOun3U/0.jpg)](https://www.youtube.com/watch?v=-P50XuOun3U)
 
 Talvez hayas escuchado sobre el método pomodoro, aprende sobre este y aplícalo tanto a la hora de trabajar como de estudiar, te aseguro te ayudará a cumplir tus metas sin saturarte y aprenderás de una forma distinta.
 
 No todos somos iguales, así que si esta técnica no te funciona puedes buscar alternativas o ajustar este tipo de técnicas a tu gusto o necesidad:
 
-[https://www.youtube.com/watch?v=Q2I96FgZUHA](https://www.youtube.com/watch?v=Q2I96FgZUHA)
+[![Alt text](https://img.youtube.com/vi/Q2I96FgZUHA/0.jpg)](https://www.youtube.com/watch?v=Q2I96FgZUHA)
 
 Este video nos enseña los problemas y las veces en que este método no es tan efectivo y te recomienda otra mas (Presupuesto de descanso):
 
-[https://www.youtube.com/watch?v=VTon5ihf-kw](https://www.youtube.com/watch?v=VTon5ihf-kw)
+[![Alt text](https://img.youtube.com/vi/VTon5ihf-kw/0.jpg)](https://www.youtube.com/watch?v=VTon5ihf-kw)
 
 hay muchas mas técnicas para concentrarse en el estudio y trabajo, te dejo de tarea buscar mas y usar la que mas se te ajuste a ti ¡ánimos!
 
@@ -63,15 +64,15 @@ hay muchas mas técnicas para concentrarse en el estudio y trabajo, te dejo de t
 
 'Agile' es mucho más que una metodología para el desarrollo de proyectos que precisan de rapidez y flexibilidad, es una filosofía que supone una forma distinta de trabajar y de organizarse. De tal forma que cada proyecto se 'trocea' en pequeñas partes que tienen que completarse y entregarse en pocas semanas.
 
-[https://www.youtube.com/watch?v=p-8GUXCZT9s](https://www.youtube.com/watch?v=p-8GUXCZT9s)
+[![Alt text](https://img.youtube.com/vi/p-8GUXCZT9s/0.jpg)](https://www.youtube.com/watch?v=p-8GUXCZT9s)
 
 Una de estas metodologías es la scrum, Scrum es un proceso para llevar a cabo un conjunto de tareas de forma regular con el objetivo principal de trabajar de manera colaborativa, es decir, para fomentar el trabajo en equipo. Con este método de trabajo lo que se pretende es alcanzar el mejor resultado de un proyecto determinado.
 
-[https://www.youtube.com/watch?v=HhC75IonpOU](https://www.youtube.com/watch?v=HhC75IonpOU)
+[![Alt text](https://img.youtube.com/vi/HhC75IonpOU/0.jpg)](https://www.youtube.com/watch?v=HhC75IonpOU)
 
 Otra metodologia agil es kanban, La metodología Kanban es un sistema de producción tan eficiente como efectivo. Forma parte de las metodologías ágiles y su objetivo es gestionar la realización de las tareas hasta su finalización.
 
-[https://www.youtube.com/watch?v=1KwoFHRO6us](https://www.youtube.com/watch?v=1KwoFHRO6us)
+[![Alt text](https://img.youtube.com/vi/1KwoFHRO6us/0.jpg)](https://www.youtube.com/watch?v=1KwoFHRO6us)
 
 ## Liderazgo en equipos de trabajo
 
