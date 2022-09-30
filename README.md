@@ -80,4 +80,12 @@ En este blog conocerás las 7 cualidades que debe tener un líder:
 
 [https://www.michaelpage.es/advice/empresas/consejos-de-iniciacion-del-personal/cualidades-de-liderazgo-mas-importantes](https://www.michaelpage.es/advice/empresas/consejos-de-iniciacion-del-personal/cualidades-de-liderazgo-mas-importantes)
 
+
+## Soft Skill necesarias para trabajar en remoto
+
+En este video podrás familiarizarte con estas habilidades importantes para cualquier persona que quiera trabajar en remoto, todo esto basado en la experiencia de este profesional.
+
+[![Soft skills para programadores remotos](https://img.youtube.com/vi/AAdWich1ArQ/0.jpg)](https://www.youtube.com/watch?v=AAdWich1ArQ)
+
+
 `Espero estos recursos te hayan ayudado a conocer la importancia de las habilidades blandas, queda de tu parte implementarlas ya que solo con saber el concepto no hacemos nada.`
