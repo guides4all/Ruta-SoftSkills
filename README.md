@@ -74,12 +74,12 @@ Otra metodologia agil es kanban, La metodología Kanban es un sistema de producc
 
 [![Alt text](https://img.youtube.com/vi/1KwoFHRO6us/0.jpg)](https://www.youtube.com/watch?v=1KwoFHRO6us)
 
-## Cursos gratis sobre Agile (SCRUM y mas) gratis y con certificados.
+## Cursos gratis sobre Agile (SCRUM y mas) gratis-
 
 | Curso | Autor | Link | Descripción |
 | --- | --- | --- | --- |
-| Curso de Scrum | Edutin academy | https://edutin.com/curso-de-scrum | En este curso de Scrum aprenderás a desarrollar proyectos de una manera ágil y efectiva, al final obtendrás un certificado totalmente gratis. |
-| Curso de gestión de proyectos | Edutin academy | https://edutin.com/curso-de-gestion-de-proyectos-4414 | prenderás cómo administrar, planificar, coordinar, organizar, controlar y hacer seguimiento a todo tipo de proyectos de manera eficiente y efectiva. con certificado final también y gratis. |
+| Curso de Scrum | Edutin academy | https://edutin.com/curso-de-scrum | En este curso de Scrum aprenderás a desarrollar proyectos de una manera ágil y efectiva |
+| Curso de gestión de proyectos | Edutin academy | https://edutin.com/curso-de-gestion-de-proyectos-4414 | prenderás cómo administrar, planificar, coordinar, organizar, controlar y hacer seguimiento a todo tipo de proyectos de manera eficiente y efectiva. |
 | Cursos y tutoriales de Agile gratuitos | Udemy | https://www.udemy.com/es/topic/agile/free/ | Esta plataforma nos brinda una lista de cursos y tutoriales gratis sobre Agile y sus metodologias. |
 
 
