@@ -88,6 +88,11 @@ Este es un video donde se repasa los conceptos de SCRUM y se da una guia para re
 
 [![Alt text](https://img.youtube.com/vi/18xG0PR1oro/0.jpg)](https://www.youtube.com/watch?v=18xG0PR1oro)
 
+# Cetificate oficialmente en SCRUM
+En esta página podrás certificarte Gratis, oficial y globalmente en SCRUM. Te dejo también una guía para responder el examen!
+https://certiprof.com/pages/scrum-foundation-professional-certificate-sfpc-spanish
+
+[Guia para responder el examen](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf)
 
 ## Liderazgo en equipos de trabajo
 
